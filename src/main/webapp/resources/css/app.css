@@ -1,0 +1,66 @@
+
+#sidebar {
+	width: 210px;
+	height: 100%;
+	background-color: #EA7166 ;
+	position: fixed;
+	left: 0%;
+	top: 0%;
+	
+}
+
+#sidebar a {
+	color:white;
+	margin: 10px;
+	padding: 10px;
+	text-decoration:none;
+}
+
+#sidebar a:hover{
+	color:aqua;
+}
+
+#main {
+	padding-left: 210px;	
+	 
+}
+
+body{
+	
+	background-color:#FFEBCD;
+	
+}
+
+#btn {
+	border-radius: 8px;
+}
+
+#btn:hover{
+	color: red;
+	background-color: yellow;	
+}
+#rside {
+	width: 227px;
+	color: white;
+	height: 100%;
+	position: fixed;
+	text-align: centre;
+	background-color: #EA7166;
+	top: 0%;
+	right: 0%;
+}
+
+#ulist a {
+	text-decoration: none;
+	color:white;
+}
+
+#ulist a:hover{color:aqua;
+}
+img{
+	align:centre;
+	display:centre;
+}
+div #header{
+	text-align: centre;
+}
