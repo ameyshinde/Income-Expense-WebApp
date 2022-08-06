@@ -14,4 +14,8 @@ A Simple personalized Income and Expense Management Web built using J2EE
 4.Edit your profile including name and password  
  
 #Configure your Database connection in DBConnect File
-"hostname","password" at line 13
+"hostname","password" at line 13  
+
+#Dont Forget to include Web App Libraries  
+1.Javax.servlet-api-4.0.0.jar  
+2.mysql-connectorjava-8.0.27.jar
